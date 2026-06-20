@@ -7,7 +7,7 @@
 - 🎯 Seeking Summer 2025/2026 Software Engineering internships
 
 ## 📊 Quick Stats
-- **365+ LeetCode solutions** (daily automated)
+- **365+ LeetCode solutions**
 - **10+ repositories** with diverse tech stacks
 - **Full-stack projects** from frontend to DevOps
 - **Problem-solver** with strong system design knowledge
