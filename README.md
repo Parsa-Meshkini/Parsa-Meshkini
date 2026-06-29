@@ -37,7 +37,7 @@ Check my pinned repositories below to see my best work! Each project demonstrate
 - ✅ Preparing for internship opportunities
 
 ## 🔗 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/parsamedhkini](https://linkedin.com/in/parsameshkini)
+- 💼 **LinkedIn:** [linkedin.com/in/parsameshkini](https://linkedin.com/in/parsameshkini)
 - 🌐 **Portfolio:** [parsameshkini.com](https://parsameshkini.com)
 - 📧 **Email:** parsa@parsameshkini.com
 - 📱 **Instagram:** [@pameshkini](https://instagram.com/pameshkini)
