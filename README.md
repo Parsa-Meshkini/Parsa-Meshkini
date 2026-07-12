@@ -30,7 +30,7 @@ Check my pinned repositories below to see my best work! Each project demonstrate
 - Full-stack capabilities
 
 ## 🎯 What I'm Currently Doing
-- ✅ Solving LeetCode problems daily (automated pipeline)
+- ✅ Solving LeetCode problems daily 
 - ✅ Building full-stack web applications
 - ✅ Learning cloud architecture & DevOps practices
 - ✅ Contributing to open-source projects
